@@ -1,6 +1,6 @@
 {
   "name": "easy-recomms",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Displays movies' recommendations from Filmweb.pl in HBO GO.",
   "main": "main.js",
   "scripts": {
